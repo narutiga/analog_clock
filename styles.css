@@ -1,6 +1,6 @@
 html {
     font-size: 30px;
-    color: white;
+    color: rgb(253, 103, 103);
 }
 
 body,html {
@@ -68,7 +68,7 @@ h1 {
     height: 180px;
     background: black;
     transform-origin: bottom;
-    transform: rotate(20deg);
+    transform: rotate(0deg);
 }
 
 .clock-sec {
@@ -79,5 +79,5 @@ h1 {
     height: 200px;
     background: rgb(253, 103, 103);
     transform-origin: bottom;
-    transform: rotate(10deg);
+    transform: rotate(90deg);
 }
